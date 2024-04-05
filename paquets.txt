@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 installation local : dpkg – rpm
+>>>>>> paquet_distant
 paquets1
 paquets2
 paquets3
