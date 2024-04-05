@@ -1,3 +1,4 @@
+installation local : dpkg – rpm
 paquets1
 paquets2
 paquets3
